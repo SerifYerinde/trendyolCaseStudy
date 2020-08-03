@@ -1,0 +1,17 @@
+2020-08-04 00:18:23 INFO  Listener:69 - Tarayıcı açılıyor...chrome
+2020-08-04 00:18:27 INFO  ScenarioTest:16 - Trendyol anasayfasına giriş yapıldı
+2020-08-04 00:18:28 INFO  homePagesFunctions:39 - Oturum açmaya yönlendiriliyor
+2020-08-04 00:18:29 INFO  homePagesFunctions:57 - Kullanıcı oturumu açılmıştır
+2020-08-04 00:18:31 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->KADIN
+2020-08-04 00:18:43 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->ERKEK
+2020-08-04 00:18:56 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->ÇOCUK
+2020-08-04 00:19:08 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->EV & YAŞAM
+2020-08-04 00:19:20 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->SÜPERMARKET
+2020-08-04 00:19:33 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->KOZMETİK
+2020-08-04 00:19:46 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->AYAKKABI & ÇANTA
+2020-08-04 00:19:58 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->SAAT & AKSESUAR
+2020-08-04 00:20:10 INFO  menuPagesFunctions:31 - Bulunduğunuz menü -->ELEKTRONİK
+2020-08-04 00:20:22 INFO  homePagesFunctions:72 - Random olarak bulunduğunuz menü -->ERKEK
+2020-08-04 00:20:48 INFO  productPagesFunctions:20 - Detayına gittiğiniz ürün -->Erkek T-Shirt G081GL011.000.954055
+2020-08-04 00:20:49 INFO  Listener:18 - [TestResult name=scenarioTestCase status=SUCCESS method=ScenarioTest.scenarioTestCase()[pri:0, instance:ScenarioTest@4bb4de6a] output={null}]
+2020-08-04 00:20:50 INFO  Listener:31 - Browser kapatıldı
